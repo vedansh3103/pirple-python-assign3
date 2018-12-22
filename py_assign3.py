@@ -1,7 +1,5 @@
 # Comparing strings with integers
 
-count=0
-
 def check(x,y,z):
     
    if x==y or y==z or x==z:
